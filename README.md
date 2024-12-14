@@ -1,6 +1,6 @@
-# htpasswd
+# htpasswd imtryingmybest
 
-## Usage
+## Usage Allalone-a
 
 To generate a password file:
 
